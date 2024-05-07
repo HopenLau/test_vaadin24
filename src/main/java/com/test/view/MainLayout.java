@@ -1,4 +1,4 @@
-package com.test.views;
+package com.test.view;
 
 import com.vaadin.flow.component.applayout.AppLayout;
 import com.vaadin.flow.component.applayout.DrawerToggle;

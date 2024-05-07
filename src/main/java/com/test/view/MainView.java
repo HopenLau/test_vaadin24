@@ -1,4 +1,4 @@
-package com.test.views;
+package com.test.view;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
